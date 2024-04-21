@@ -13,6 +13,7 @@ Front-End:
 HTML5
 CSS3
 JavaScript
+
 Ferramentas:
  
   Sublime Text
@@ -22,7 +23,7 @@ Configuração:
 
 Clone o repositório:
 Bash
-git clone https://docs.github.com/pt/repositories
+git clone https://github.com/evertonidpb/divulgacao
 Use o código com cuidado.
 Instale as dependências (se necessário):
 Bash
